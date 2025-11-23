@@ -1,0 +1,151 @@
+.header .logo img {
+    width: 115px;
+    height: 40px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px 0 30px;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+body {
+    font-family: 'Poppins';
+    font-size: 16px;
+}
+
+.homepage .banner {
+    display: flex
+;
+}
+.homepage .banner {
+    background-color: #9D1C6A;
+    padding: 60px 68px;
+}
+.homepage .banner .leftban .text {
+    text-align: left;
+    font: normal normal bold 40px / 54px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding: 35px 0;
+}
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.homepage .banner .leftban .button {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    border: none;
+    padding: 14px 25px;
+    text-align: center;
+    font: normal normal 600 20px / 20px Poppins;
+    letter-spacing: 0px;
+    color: #9D1C6A;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.homepage .banner .leftban .avail {
+    text-align: left;
+    font: normal normal 500 16px / 20px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin: 0;
+    padding: 50px 0 10px 0;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+.homepage .banner .leftban .availsites img.android {
+    padding-right: 10px;
+}
+.homepage .banner .leftban .availsites img {
+    width: 120px;
+}
+
+.col1{
+    width: 420px;
+    float: left;
+}
+.col2{
+    width: 432px;
+    float: left;
+}
+.col3{
+    width: 432px;
+    float: left;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.homepage .quality .heading {
+    text-align: left;
+    font: normal normal 600 30px / 60px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    display: grid;
+  row-gap: 50px;
+}
+.homepage .quality .rows .section img {
+    width: 75px;
+}
+.img {
+
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.rows .section .subheading {
+    text-align: left;
+    font: normal normal 600 20px / 20px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin: 0;
+    padding: 10px 0 15px 0;
+}
+.p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+.homepage .quality .rows .section .des {
+    text-align: left;
+    font: normal normal normal 15px / 20px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin: 0;
+    padding: 0 20px 0 0px;
+    
+}
+
